@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Marc Buday",
+        "email": "marc@local.com",
+        "phone": "09123456789",
+        "archived": false,
+        "notes": "Prefers weekend flights to Manila",
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 2,
+        "name": "Ana Dela Cruz",
+        "email": "ana.delacruz@example.ph",
+        "phone": "09171234567",
+        "archived": false,
+        "notes": "Corporate traveler based in Cebu",
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 3,
+        "name": "Jose Ramirez",
+        "email": "jose.ramirez@example.ph",
+        "phone": "09998887777",
+        "archived": false,
+        "notes": "Frequently visits family in Palawan",
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 4,
+        "name": "Liza Soriano",
+        "email": "liza.soriano@example.ph",
+        "phone": "09223334444",
+        "archived": false,
+        "notes": "Medical missions to Iloilo quarterly",
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    }
+]

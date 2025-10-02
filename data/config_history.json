@@ -1,0 +1,32 @@
+[
+    {
+        "updated_at": "2025-10-02T13:56:09+00:00",
+        "changes": {
+            "base_percentage": 0.5,
+            "recaman_start": 0,
+            "fibonacci_start": 1,
+            "extra_day_increment": 0.05,
+            "exponential_growth_days": 2
+        }
+    },
+    {
+        "updated_at": "2025-10-02T15:27:33+00:00",
+        "changes": {
+            "base_percentage": 0.5,
+            "recaman_start": 0,
+            "fibonacci_start": 1,
+            "extra_day_increment": 0.05,
+            "exponential_growth_days": 2
+        }
+    },
+    {
+        "updated_at": "2025-10-02T15:27:43+00:00",
+        "changes": {
+            "base_percentage": 0.5,
+            "recaman_start": 0,
+            "fibonacci_start": 1,
+            "extra_day_increment": 0.2,
+            "exponential_growth_days": 2
+        }
+    }
+]

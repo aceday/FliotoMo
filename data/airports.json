@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "code": "PPS",
+        "name": "Puerto Princesa International Airport",
+        "city": "Puerto Princesa",
+        "country": "Philippines",
+        "archived": false,
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 2,
+        "code": "MNL",
+        "name": "Ninoy Aquino International Airport",
+        "city": "Pasay",
+        "country": "Philippines",
+        "archived": false,
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 3,
+        "code": "CEB",
+        "name": "Mactan-Cebu International Airport",
+        "city": "Lapu-Lapu",
+        "country": "Philippines",
+        "archived": false,
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 4,
+        "code": "DVO",
+        "name": "Francisco Bangoy International Airport",
+        "city": "Davao City",
+        "country": "Philippines",
+        "archived": false,
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 5,
+        "code": "CRK",
+        "name": "Clark International Airport",
+        "city": "Angeles",
+        "country": "Philippines",
+        "archived": false,
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 6,
+        "code": "ILO",
+        "name": "Iloilo International Airport",
+        "city": "Cabatuan",
+        "country": "Philippines",
+        "archived": false,
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 7,
+        "code": "KLO",
+        "name": "Kalibo International Airport",
+        "city": "Kalibo",
+        "country": "Philippines",
+        "archived": false,
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    }
+]

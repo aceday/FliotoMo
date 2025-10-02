@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "passenger_id": 1,
+        "departure_airport": "PPS",
+        "arrival_airport": "MNL",
+        "departure_time": "2025-09-15T08:15",
+        "arrival_time": "2025-09-15T10:05",
+        "flight_number": "AA101",
+        "archived": false,
+        "notes": "Weekend getaway",
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 2,
+        "passenger_id": 1,
+        "departure_airport": "MNL",
+        "arrival_airport": "PPS",
+        "departure_time": "2025-09-18T18:30",
+        "arrival_time": "2025-09-18T20:20",
+        "flight_number": "AA102",
+        "archived": false,
+        "notes": "Return flight",
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 3,
+        "passenger_id": 2,
+        "departure_airport": "CEB",
+        "arrival_airport": "MNL",
+        "departure_time": "2025-08-22T07:00",
+        "arrival_time": "2025-08-22T08:20",
+        "flight_number": "AA221",
+        "archived": false,
+        "notes": "Client meeting",
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 4,
+        "passenger_id": 2,
+        "departure_airport": "MNL",
+        "arrival_airport": "DVO",
+        "departure_time": "2025-09-10T11:15",
+        "arrival_time": "2025-09-10T13:05",
+        "flight_number": "AA223",
+        "archived": false,
+        "notes": "Regional sales visit",
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 5,
+        "passenger_id": 3,
+        "departure_airport": "MNL",
+        "arrival_airport": "PPS",
+        "departure_time": "2025-07-05T09:45",
+        "arrival_time": "2025-07-05T11:35",
+        "flight_number": "AA315",
+        "archived": false,
+        "notes": "Family visit",
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 6,
+        "passenger_id": 4,
+        "departure_airport": "CRK",
+        "arrival_airport": "ILO",
+        "departure_time": "2025-08-12T06:20",
+        "arrival_time": "2025-08-12T08:30",
+        "flight_number": "AA407",
+        "archived": false,
+        "notes": "Health mission",
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    },
+    {
+        "id": 7,
+        "passenger_id": 4,
+        "departure_airport": "ILO",
+        "arrival_airport": "CEB",
+        "departure_time": "2025-09-25T14:10",
+        "arrival_time": "2025-09-25T15:20",
+        "flight_number": "AA409",
+        "archived": false,
+        "notes": "Connecting seminar",
+        "updated_at": "2025-10-02T14:20:00+00:00"
+    }
+]
