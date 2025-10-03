@@ -1,1 +1,12 @@
-{ "name": "aceday/fliotomo", "description": "Composer setup for PHP actions in FliotoMo.", "type": "project", "require": {}, "autoload": { "psr-4": { "FliotoMo\\": "src/" } } }
+{
+  "name": "aceday/fliotomo",
+  "description": "Composer setup for PHP actions in FliotoMo.",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "FliotoMo\\": "src/"
+    }
+  },
+  "license": "proprietary"
+}
