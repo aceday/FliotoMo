@@ -8,7 +8,10 @@
   <h2 class="text-2xl font-semibold mb-2">About FliotoMo</h2>
   <p class="text-slate-600 mb-4">FliotoMo is a lightweight, JSON‑backed airline management demo. It helps you manage airports, passengers, and flights, and explore a simple prediction model for arrivals/departures.</p>
 
-  <p>Only solo member: Mark Cedie Buday BSIT2-B1</p>
+  <p class="font-bold">Members:</p>
+  <p>Mark Cedie Buday</p>
+  <p>John Owen Baguion</p>
+  <p>John Matthew Dipad</p>
   <br>
   
   <p>"Fly like a pro with FliotoMo is your friend"</p>
